@@ -13,5 +13,5 @@
 
 ## Using Qt
 
-- port to Qt5 by [j2doll]()
+- port to Qt5 by [j2doll](https://github.com/j2doll)
 
