@@ -1,8 +1,11 @@
+
 #include "FormulaParser.h"
 #include "TokenStack.h"
 #include "TokenArray.h"
 #include "StrUtils.h"
-#include "pcrecpp.h"
+
+#include <pcrecpp.h>
+
 #include <sstream>
 
 #define MakeToken TokenAllocer::getToken

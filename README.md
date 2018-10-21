@@ -8,8 +8,8 @@
 
 ## License and links
 
-- Excel_formula_parser_cpp [https://github.com/lishen2/Excel_formula_parser_cpp](https://github.com/lishen2/Excel_formula_parser_cpp)
-- Excel_formula_parser_cpp.Qt [https://github.com/j2doll/Excel_formula_parser_cpp.Qt](https://github.com/j2doll/Excel_formula_parser_cpp.Qt)
+- Excel_formula_parser_cpp is under MIT license. [https://github.com/lishen2/Excel_formula_parser_cpp](https://github.com/lishen2/Excel_formula_parser_cpp)
+- Excel_formula_parser_cpp.Qt is under MIT license. [https://github.com/j2doll/Excel_formula_parser_cpp.Qt](https://github.com/j2doll/Excel_formula_parser_cpp.Qt)
 
 ## Using Qt
 

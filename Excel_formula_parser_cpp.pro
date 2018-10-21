@@ -7,7 +7,6 @@ TARGET = Excel_formula_parser_cpp
 TEMPLATE = app
 
 # QT += core
-# QT += gui
 
 CONFIG += console
 CONFIG -= app_bundle
@@ -26,6 +25,14 @@ DEFINES += QT_DEPRECATED_WARNINGS
 # version of Qt.
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000   
 # disables all the APIs deprecated before Qt 6.0.0
+
+##########################################################################
+# PCRE
+
+# TODO: define PCRE include path for your own environment
+INCLUDEPATH += C:\workspace\pcre-8.42\pcre-8.42
+LIBS += -L"C:\workspace\pcre-8.42\pcre-8.42"
+LIBS += -lpcrecpp
 
 ##########################################################################
 # Source Files
