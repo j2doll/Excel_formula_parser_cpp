@@ -34,6 +34,9 @@ INCLUDEPATH += C:\workspace\pcre-8.42\pcre-8.42
 LIBS += -L"C:\workspace\pcre-8.42\pcre-8.42"
 LIBS += -lpcrecpp
 
+# How to install precpp in Ubuntu 18 
+# sudo apt install libpcre++-dev
+
 ##########################################################################
 # Source Files
 
